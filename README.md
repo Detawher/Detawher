@@ -16,8 +16,4 @@
 <div> 
   <a href="https://www.youtube.com/c/detawher%E3%83%84" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/detawherr" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/hkhsUSpG" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  
- 
-  ![Snake animation](https://github.com/Detawher/Detawher/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
