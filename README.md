@@ -1,14 +1,13 @@
-## Olá, eu sou o Detawher!
+## Olá, eu sou o Detawher, Desenvolvedor de jogos! <img align="center" alt="Rafa-pikachu" height="30" width="40" src="https://emoji.gg/assets/emoji/4708_Pikachu_Hello.gif">
 
 <div align="center">
-  <a href="https://github.com/Detawher">
-  <img height="163em" src="https://github-readme-stats.vercel.app/api?username=Detawher&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Detawher&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://linktr.ee/detawher">
+  <img height="163em" src="https://github-readme-stats.vercel.app/api?username=Detawher&show_icons=true&title_color=88C070&icon_color=E0F8D0&text_color=E0F8D0&bg_color=081820&border_color=306850&include_all_commits=true&count_private=true"/>
+  <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Detawher&layout=compact&langs_count=6&title_color=88C070&icon_color=E0F8D0&text_color=E0F8D0&bg_color=081820&border_color=306850"/>
 </div>
 <div style="display: inline_block"><br>
-    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Rafa-HTML" height="30" width="30" src="https://github.com/user-attachments/assets/ea18a707-4eb3-41c8-97c5-92ae97830816">
+    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
   
   ##
